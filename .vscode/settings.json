@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/local_disk0/.ephemeral_nfs/envs/pythonEnv-101a349a-a2a4-4f6e-a9d5-d4e1e033b69c/bin/python",
+    "jupyter.interactiveWindow.cellMarker.codeRegex": "^# COMMAND ----------|^# Databricks notebook source|^(#\\s*%%|#\\s*\\<codecell\\>|#\\s*In\\[\\d*?\\]|#\\s*In\\[ \\])",
+    "jupyter.interactiveWindow.cellMarker.default": "# COMMAND ----------"
+}
